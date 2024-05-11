@@ -1,2 +1,239 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="stylesheet" href="https://reynoldsresins.etsy.com">
+  </head>
+  <header>
+    <navbar id="navbar">
+      <div class="contact">
+        <a id="contact-me" href="">Contact Us</a> </div>
+      <div id="shop"> 
+      <a id="etsy-shop" href="https://reynoldsresins.etsy.com">Shop</a>
+      </div>
+    </navbar>
+</header>
+
+<body>
+  <section class="welcome-section" id="welcome-section">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczNX389Cq25A3qEpZIJ-_1y50Y6PBgxWByiBxjGwbFWwO0zE4N4LjRrEag4iC47fGcIQO1UgqI7nQhOupZQnRU-eT_NKtlYXbMX5oOLKNgbIUKodwQ7PjEIMNEoxeDJE5vd0Fon6fUF9YTzFTTAkzcAJGJr2dRsKLIvpbsFcN01WIwf3F-qmAvIQ_l7N7CRRizUyKwT3rEpQ_cKcFKFoGDmO2RMQSkJicdsQk0lQLjr3VsOCIwM6mWqJpI0_UBMgyuhwqvdPA5xdHnEMHiQQgNmD14Ugc8n17D1a1NJtPVoAnJhTzCAT9S8V4UVg2lpThBIYrUa5qvHZmW6b2BshGp8XJ7kRvz6uvaPGLRwjIliQXywrYsutPt6_0-IFTb-kfm3jUWVXmI6OxXT1LDoyFX0NRhQ2Po8Cs3w_FIma32R3KxwpooNufj3SHJ5fa4O6LnKJLJgMIXNoAj7nafSHFvXN3IsesYrBKOtdy1Oi3UEIRHuqzntEYR1F7RfaPJUZS1XTkZmkfidkihLLYmri5R3pBJnHPgaOCBL8Dny84-QdKZumdAEgXCBecT5Vd2mnTutrI4M3DPdaQ265VWVwfprAw5OCwhSlfQFwy7ORbxPGtUsx5wMyMDcWa11zP6IrWq1tIzJzVTo5k24XS920l7ewf64vAqPeCuKHXFfqF8-PKBTcilgVvPowPcjYB5_USKbeYvPuFWpkP8eg2BDEG8ys_-nzMHKZb0Jp-jZiSM-pZsjKfQqolJ_c2c4D0ywbkh5TcZkMFYLbSYwyCMeyhVEi6hV-rTc1V0-tbxL3fXzsGt3e5hiul3TUUCR324U9jq2OIQIVre78GH1MsMTFsRguRwBOJAWM0VdwHs2G1xqAQr9W1l8kAzgSWKkteIgu_BB4oCq4YIRFUO7UzJBf4uvJaQH_k16VCH5yISiWUI1TdOZ3_uwai3x40oSJtU-3LjbasWmCwb47-hRyzWpkDJqMuFwE0mLR=w1332-h410-s-no-gm?authuser=0" alt="RR-logo">
+    <h3 class="web-dev">Where creating artwork isn't only a passion, it's a legacy.</h3>
+    <div id="pics">
+
+    </div>
+
+  </section>
+  <section id="about-me" class="about-me">
+    <div class="bio">
+      <div class="container">
+        <div class="intro">
+          We are a father - daughter ran company that provides uniquely crafted and custom peices of artwork ranging in a wide variety of styles, and forms. We both can, and genuinely enjoy creating custom designed handmade products, pouring our time, heart, and soul into each peice we make. When you buy from us you can be sure that each individual art peice will never be the same. We would love to hear from you, and look forward to doing business!
+        </div>
+
+        <div class="photo"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMwFDXgVSu8xFKysN9zqsyYg0GgApj-XZEvGqETBc2SyvYHaLBzrm0PUQPawUrAHV-TQDSSaRqZRqnPsfB0bepw0WUImAUXfr2IiMfYh4VMFF72QQeiiZyG-dHVysxcPLv3xwGMszTuGdRN3EMSneoTzahhgw19c-cUH1c8Q602-nYjJgVBlSlgNcSGO5PpESEIeCgaXkG-BlPvUHgDkufnKE5cTjYrzwfBZTCsGDKwQSA3EVcCejqaM0PnTnS92pzb__TsXabLZsovG7RS3Ze-vVtMlN8ba0txTDrtxaO_318bVGF140r9uZ6JUMhweUZCrA3r9vFyTD66558ntK1vupcHObAjJ8xnzOSJT0Nu37ol3YPlV1EiL5l-8QYpqvsTTcX7W7PUs9o5nUGR-BIk2IyYaGgRCipsDwiojykK2wmTuCiJfe1K8ZMxx_riz6OzJ8bsyXKJ_6VkupH6kpxw1A7Mnaixpgnfr5WyIqWkaXtLbp0Oj2aCPKL9CSNVQ6Ik9PY9Il8gtbCnsJqBaniJRE3ighn6yxTlFnDYww2fsU_cJZmUbS9qPBlITN914Fhm_9RpYDCB3dCoHRWd9Oi-Q10G0QJ2DHt1lOQfmgZ5Z6cOGWGt0DfAkYvRJMEonrfpYrg_2Pr0GVX8pAGsBaY-ZgHnqF_qujh6H5b1mt4H5FTmJPwjkr_T78XX7YJ48tJxyRYBe6DlycRnidGG3omE6eWd4K72KA1M6f1uikBDmtloRcQECnA7YrrN4DazvSw0hJN_o9N2WrFWoySZZT7Rmx1xPntwOiO9_TH_yD28TBYFvVQqKurvve5kargMAjkMOCjkjZGxP2FVpZJvrsujKvIvoqN9ytC1johB05b6cacCsVVAuNKpXLHa4vZoeM7CCwhr6a5eR2ykN5Jm1EPy9A8=w834-h537-s-no-gm?authuser=0" alt="dad-kc">
+
+        </div>
+        <div class="row">
+          <div class="col-3">
+            <div class="about-dad">
+              has been painting since the 1970's, and specializes in landscapes and wildlife. His years of painting shows in each stroke of his brush. He paints in acrylic and oil based paints on canvas or slate. He also creates hand crafted arrowheads, and knives made with deer antlers. These knives are done traditionally, as the Native people had done themselves and are great display items and conversation starters. James puts his all in everything he does.
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="about-kc">has looked up to her father's works of art, and traveled in his footsteps since the late 1990's. She specializes in detailed wood burning, watercolors, and some acrylic canvas and wood painting. She also makes custom hand carved hair sticks, with custom wood burned and watercolor designs. She also loves making custom wooden coasters, ornaments, book bag tags, and keychains.
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer id="#contact" class="contact-me">
+
+      
+      <div class="container">
+  <div style="text-align:center">
+        <p class="contact-info"> If you have interest in working with us, please feel free to email us, or message us here:</p>
+   
+    <div class="contact-info"><a src="ReynoldsResins@gmail.com" href="ReynoldsResins@gmail.com">ReynoldsResins@gmail.com</a>
+  </div>
+    <div class="column">
+      <form action="ReynoldsResins@gmail.com">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your first name..">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Please type here..." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+      
+      
+    </div>
+  </footer>
+
+</body>
+
+</html>
+.vscode/settings.json
+
+body{
+background:teal;
+color:white;
+}
+navbar{
+position: fixed;
+right: 86%;
+font-size: 23px;
+}
+.container{
+  margin-top: 20px;
+  font-family: Monospace;
+}
+
+.welcome{
+  font-size:60px;
+  padding-bottom:150px;
+  padding-top:15px;
+  margin-bottom:0px;
+  margin-top:0;
+  font-family: Monospace;
+ background:black;
+  
+}
+
+.web-dev{
+  font-size:25px;
+  margin-top:100px;
+  font-family: Sans-serif;
+  background-color:teal;
+}
+.project-intro{
+font-size:35px;
+padding-top:60px;
+padding-bottom:60px;
+color:white;
+background-color:#48D1CC;
+}
+
+.welcome-section{
+  height: 650px;
+  width:100%;
+  text-align:center;
+}
+
+
+.about-me{
+justify-content:space-evenly;
+  position:relative;
+  bottom:100px;
+text-align:center;
+padding-bottom:90px;
+
+}
+
+.bio{
+  font-family:Monospace;
+  font-size:18px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+footer {
+font-family:Monospace;
+font-size:30px;
+text-align: center;
+bottom:50px;
+margin-bottom: 500px;
+}
+.col-3{
+  margin-left: 745px;  
+  font-size:20px;
+  font-family: Verdana;
+  text-align: center;
+  border: 1px solid black;
+  width: 400px;
+  position:relative;
+}
+.col-6{
+  margin-left: 300px;
+  font-size: 20px;
+  font-family: Verdana;
+  border:1px solid black;
+  width: 400px;
+  position: relative;
+ bottom: 287px;
+  left: 18px;
+  padding-bottom: 15px;
+}
+.intro{
+  text-align: center;
+  width: 600px;
+  position: relative;
+  margin-left: 30%;
+  padding-bottom: 75px;
+}
+a {
+  font-family: Monospace, roboto;
+  color: white;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #40E0D0;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+    background:#48D1CC;
+  color:white;
+  background-color: teal;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
